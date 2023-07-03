@@ -1,0 +1,16 @@
+caractériser, 01 EXERCICE, 0N NIVEAU
+NIVEAU: code niveau, nom
+
+EXERCICE: code exercice, temps, groupe
+donner, 1N REPONSE, 0N EXERCICE
+REPONSE: code reponse, reponse utilisateur, correction
+:
+
+choisir, 0N UTILISATEUR, 1N EXERCICE
+UTILISATEUR: email, prénom, mot de passe
+
+:
+lire, 0N leçon, 0N UTILISATEUR
+
+:
+leçon :code leçon, règle

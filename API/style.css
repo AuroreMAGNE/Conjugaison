@@ -1,0 +1,30 @@
+
+body{
+    background-color: rgb(27, 78, 146);
+    text-align: center;
+    font-size: 2em;
+}
+
+h1{
+    color: rgb(86, 172, 215);
+    font-size: 2em;
+    
+}
+
+button{
+    color:darkslategrey;
+    margin-right: 10px;
+    border-radius: 20px;
+    padding : 8px 20px;
+    border: 2px rgb(14, 46, 122) solid;
+}
+
+.groupes{
+    margin-top: 50px;
+}
+
+h2{
+    color: rgb(86, 172, 215);
+    text-align: center;
+    font-size: 1em;
+}
